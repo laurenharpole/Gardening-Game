@@ -1,2 +1,2 @@
 # cs3110-final-proj
- CS 3110 Final Project REpo
+ CS 3110 Final Project Repo
